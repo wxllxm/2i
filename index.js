@@ -23,3 +23,8 @@ const myNumber = 42;
 const myArray = [1, 1, 10, 32, 41];
 
 numberPairs(myNumber, myArray);
+
+//Quick note - I have not changed the original solution after submitting the challenge. I have however added some fixes to some problems I spotted after a coffee and a chin scratch.
+// You can find this within the 'updated-after-a-break' branch.
+
+// Thanks & god bless.
